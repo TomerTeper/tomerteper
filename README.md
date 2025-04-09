@@ -1,5 +1,5 @@
 # Hi there, I'm Tomer Teperovich! 👋
-Welcome to my GitHub profile! I'm passionate about data science and machine learning. Here, you'll find a collection of projects that showcase my skills and interests in these areas.
+Welcome to my GitHub profile! Here, you'll find a collection of projects that showcase my skills and interests in these areas.
 
 🔬 **Data Science & Machine Learning Projects**
 - Movie Data Analysis and Machine Learning Project [GitHub repository](https://github.com/TomerTeper/Technion-final-project-eda-ml-xai)
